@@ -1,7 +1,3 @@
-Bilkul! Yahaan aapka polished and nicely formatted **`README.md`** content hai — aap isey as it is copy-paste kar sakte ho into your README file:
-
----
-
 ```markdown
 # 🔐 Python-05-Assignment: Secure Data Encryption System Using Streamlit
 
